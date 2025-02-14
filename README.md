@@ -19,7 +19,7 @@ A beginner-friendly **Event Ticket Booking UI** designed for developers to clone
 ## How to Use
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/idighekere/conference-ticket-generator.git
+   git clone (https://github.com/emmanuel-akinyemi-Dev/ticketGenerator)
    cd conference-ticket-generator
    ```
 2. **Install dependencies:**
